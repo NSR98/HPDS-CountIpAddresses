@@ -1,4 +1,4 @@
-# HPDS-Count_Ip_Addresses
+# HPDS-CountIpAddresses
 Made with Álvaro Saúl Rodríguez Alemán (https://github.com/alvarosaulrodriguezaleman)
 
 Kata from codewars.com made for Herramientas Profesionales para el Desarrollo de Software in ULPGC
